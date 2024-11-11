@@ -1,0 +1,7 @@
+id = "lucid-dream"
+name = "Lucid Dream"
+version = "0.0.1"
+schema_version = 1
+authors = ["David Maple <david@parallm.dev"]
+description = "Lucide Dream is a Semi-transparent theme for Zed that works well with video wallpapers."
+repository = "https://github.com/parallm-dev/zed-lucid-dream-theme"
