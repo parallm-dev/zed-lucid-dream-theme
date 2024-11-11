@@ -10,7 +10,7 @@ jobs:
         steps:
             - uses: huacnlee/zed-extension-action@v1
               with:
-                  extension-name: nord
+                  extension-name: lucid-dream-theme
                   # extension-path: extensions/${{ extension-name }}
                   push-to: parallm-dev/zed-lucid-dream-theme
               env:
