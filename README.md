@@ -6,4 +6,6 @@ Place `lucid-dream.json` in `~/.config/zed/themes`, restart Zed and select it fr
 
 ![image](screenshots/lucid-dream-dark.png)
 
+![image](screenshots/lucid-dream-dark.ship.png)
+
 ![image](screenshots/lucid-dream-dark.gif)
