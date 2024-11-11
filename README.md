@@ -1,4 +1,4 @@
-# zed-lucid-dream
+# zed-lucid-dream-theme
 
 A semi-transparent dark theme for [Zed](https://github.com/zed-industries/zed). I enjoy video wallpaper behind code.
 
